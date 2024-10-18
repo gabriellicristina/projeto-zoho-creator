@@ -3,10 +3,10 @@
 Este projeto transforma uma planilha Excel complexa em um aplicativo automatizado desenvolvido no Zoho Creator, integrando funcionalidades essenciais como cálculo de rateio, aplicação de margens e atualização automática de registros via Deluge. O sistema também se integra com outros serviços da Zoho Suite, como Zoho CRM e Zoho Sign, proporcionando uma experiência automatizada e integrada.
 
 🌟 Diferenciais do Projeto
-🔄 Transformação de Planilha Excel: Automatiza cálculos manuais, eliminando erros e agilizando processos.
-🔗 Integração Completa com Zoho: Sincronização com Zoho CRM e Zoho Sign para uma gestão eficiente e centralizada.
-⚙️ Automatizações Personalizadas: Scripts Deluge feitos sob medida para atender às necessidades específicas do cliente e do negócio.
-⚡ Principais Funcionalidades
+-🔄 Transformação de Planilha Excel: Automatiza cálculos manuais, eliminando erros e agilizando processos.
+-🔗 Integração Completa com Zoho: Sincronização com Zoho CRM e Zoho Sign para uma gestão eficiente e centralizada.
+-⚙️ Automatizações Personalizadas: Scripts Deluge feitos sob medida para atender às necessidades específicas do cliente e do negócio.
+-⚡ Principais Funcionalidades
 
 1. 📊 Cálculos Automatizados de Rateio
 - Regras personalizadas para diferentes categorias de produtos.
